@@ -1,4 +1,4 @@
-## Variable Analysis of Banks Ratio Data
+## Variable Analysis of Banks' Ratio Data
 
 This is an assignment for my Multivariate Statistical Analysis 1 course.
 
